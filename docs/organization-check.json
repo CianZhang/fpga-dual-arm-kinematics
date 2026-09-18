@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "source_artifacts_checked": 202,
+  "pds_inputs_checked": 33,
+  "markdown_local_links_checked": 125,
+  "required_local_generated_ip": [
+    "generated/ip_multiplier/ip_multiplier.v",
+    "generated/ip_multiplier/rtl/ipml_mult_v1_3_ip_multiplier.v"
+  ],
+  "reference_sample_mm": [
+    0,
+    0,
+    -237.5
+  ],
+  "reference_motor_commands_deg": [
+    26.096745495223715,
+    26.096745495223715,
+    26.096745495223715
+  ],
+  "not_performed": [
+    "PDS synthesis and place-and-route",
+    "HDL simulation",
+    "CAD assembly rebuild",
+    "hardware test"
+  ],
+  "errors": []
+}

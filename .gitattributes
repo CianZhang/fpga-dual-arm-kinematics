@@ -1,0 +1,5 @@
+*.SLDPRT binary
+*.SLDASM binary
+*.png binary
+*.pdf binary
+*.docx binary

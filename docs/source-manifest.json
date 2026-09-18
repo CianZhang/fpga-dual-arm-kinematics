@@ -1,0 +1,1214 @@
+[
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/transmission_tape/tran_tape.v",
+    "destination": "rtl/delta/transmission_tape/tran_tape.v",
+    "sha256": "3ac482cb4cb4ae2a9de4f79650cd7d541bf2509902414876ac29d876b499bc52",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/VL6180X/i2c_ctrl.v",
+    "destination": "rtl/delta/VL6180X/i2c_ctrl.v",
+    "sha256": "ab120e98709343619e5f7d853b221a5122812d6c63fc019f2c528a7100b8cab3",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/VL6180X/vl6180x.v",
+    "destination": "rtl/delta/VL6180X/vl6180x.v",
+    "sha256": "7076fb25066929c8d729dbd32ba5b1a36d72add5a3d002bed7f8e195937e724d",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/VL6180X/key.v",
+    "destination": "rtl/delta/VL6180X/key.v",
+    "sha256": "f8735fd84b95688f686fc3955a9a5dfc4d650e935c5d012fcdea0fdaa81a92e5",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/motion_solver.v",
+    "destination": "rtl/delta/motion_solver/motion_solver.v",
+    "sha256": "96091bc05961ffdb88bc7908d7f0a55860d3eda76f5535278c516c1d1ae783a2",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/sqrt.v",
+    "destination": "rtl/delta/motion_solver/sqrt.v",
+    "sha256": "aafec168e00ed5c32010ecbd7c08a1c23b7245380857ce6a7a63f3d31792e51a",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/cordic_serial.v",
+    "destination": "rtl/delta/motion_solver/cordic_serial.v",
+    "sha256": "bfa0cd18173fdc79af34f681e7a389c46086959c60314a7bc64843182277b936",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/pretreat_data.v",
+    "destination": "rtl/delta/motion_solver/pretreat_data.v",
+    "sha256": "524e48c6746d44cf7db0d53f759bab5da9b6b86b4f38e63fdd82b4447e89ea66",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/calculate_angle.v",
+    "destination": "rtl/delta/motion_solver/calculate_angle.v",
+    "sha256": "49334a89b506b7c83be5c6e527c9d23071e890d28a64c51db8022672eebd62b1",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_ctrl/stepper_motor_reset.v",
+    "destination": "rtl/delta/motion_ctrl/stepper_motor_reset.v",
+    "sha256": "ebfa48ea6cca6c09056761eee27562f1f21a2c74396bfb97a1dfdba0a4205aa1",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_ctrl/stepper_motor_ctrl.v",
+    "destination": "rtl/delta/motion_ctrl/stepper_motor_ctrl.v",
+    "sha256": "cd5f473737000a8a4854a5a86098a0ef6150bf7669a9062d557302ece3d8a647",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/delta_ctrl/delta_ctrl.v",
+    "destination": "rtl/delta/delta_ctrl/delta_ctrl.v",
+    "sha256": "e31fae9849fd85aa4a7aef2ba2ea7a849995c08ce7fb88ea3c90ffb813efb99d",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/delta_ctrl/top_delta_ctrl.v",
+    "destination": "rtl/delta/delta_ctrl/top_delta_ctrl.v",
+    "sha256": "032c8ac4fc852b5ed94391a964ef4956aca9487c04010a4700534a025e949266",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/delta_ctrl/linear_interpolation.v",
+    "destination": "rtl/delta/delta_ctrl/linear_interpolation.v",
+    "sha256": "a488cec3d58cb772a22200a492ddb5101af4a5d44df51876d09b2568e07ccbe3",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/camera_uart_top.v",
+    "destination": "rtl/delta/uart/camera_uart_top.v",
+    "sha256": "0b6438515faa9d5ad4dd930ac91dd90f49e904f9b24750df34e63811c6e6564a",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/uart_rx_top.v",
+    "destination": "rtl/delta/uart/uart_rx_top.v",
+    "sha256": "e0ad73afbe51d222f0c3718d17583a9cdf2dcb853f9c162bd982b5f4946a6764",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/uart_tx_top.v",
+    "destination": "rtl/delta/uart/uart_tx_top.v",
+    "sha256": "97bfe13e61cb0092378417f788388c3529e41818655a10715b10c48748ab3095",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/uart_tx.v",
+    "destination": "rtl/delta/uart/uart_tx.v",
+    "sha256": "18264eef39125121da4a2f4b5724854fafb9545a76082199e5885f22f8b9ede0",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/uart_rx.v",
+    "destination": "rtl/delta/uart/uart_rx.v",
+    "sha256": "1e3ab451aeba5cf3152e9785b083c5ba96617270198895677ec0258f035b9ffa",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/win_tx_top.v",
+    "destination": "rtl/delta/uart/win_tx_top.v",
+    "sha256": "db346f0bbb3f00e05734a2b6b33e089ba26c9a2ccb178e6137c3f2a9457a15ed",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/RFID_uart.v",
+    "destination": "rtl/delta/uart/RFID_uart.v",
+    "sha256": "58a05f865451c8ecb3e0afac565b29cf7c93cc9b46fdf9e7549523095a57aa38",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/VL6180X/test/vl6180x_top.v",
+    "destination": "rtl/delta/VL6180X/test/vl6180x_top.v",
+    "sha256": "ab6e06eda72168f3b122e2c9188b13cbf90884cb0cdb13964e9d8abcacec6e11",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/test/divider.v",
+    "destination": "rtl/delta/motion_solver/test/divider.v",
+    "sha256": "91e002c7712ba7f937409978276ceed08286d1ad9484c003b262e42a3cee5787",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/test/top_motion_solver.v",
+    "destination": "rtl/delta/motion_solver/test/top_motion_solver.v",
+    "sha256": "4f1f209dea7ae40cb3820a456ee3300fb7a072ab774a76df5eac3659acd35b1a",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/motion_solver/test/signed_divider.v",
+    "destination": "rtl/delta/motion_solver/test/signed_divider.v",
+    "sha256": "0468350654fd3d9a941a0cfb1952de966a39ae1be4d3427dc343b8f32bc87c8a",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/delta_ctrl/test/top_linear_interpolation.v",
+    "destination": "rtl/delta/delta_ctrl/test/top_linear_interpolation.v",
+    "sha256": "a4fbc994004cb38cfccfd46b05082febe0311d2a1c573580fe183a1fae79651c",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/test/test_RFID_uart.v",
+    "destination": "rtl/delta/uart/test/test_RFID_uart.v",
+    "sha256": "d873541350fb8bddf5475200ac8281c3f20265f27aaa6eecd55edee2ea4b090f",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Delta_rtl/uart/test/uart_tx_top_test.v",
+    "destination": "rtl/delta/uart/test/uart_tx_top_test.v",
+    "sha256": "81d52deae479152175388aab41b5181b4afa9c8d38cd025c6e4fa73ed328b9c7",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/sim/tb_RFID_uart.v",
+    "destination": "sim/delta/tb_RFID_uart.v",
+    "sha256": "83b429be25517a6e279bdb4f07fdc5fd60aa1f28db2cde27eb813597a29030db",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/sim/tb_top_delta_ctrl.v",
+    "destination": "sim/delta/tb_top_delta_ctrl.v",
+    "sha256": "a0e09dc91aaeb3d85d99d8a98e434738f390bf5a1a2c5f0c3a9259cdad06a9bc",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/sim/tb_uart_rx_top.v",
+    "destination": "sim/delta/tb_uart_rx_top.v",
+    "sha256": "494cb99654641f40f5a8b93d229c0cdfc22e797239e112bcca60b48bdbd22b71",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/sim/tb_stepper_motor_ctrl.v",
+    "destination": "sim/delta/tb_stepper_motor_ctrl.v",
+    "sha256": "ba417ac9f386f858901690466ed26ee7d5890ebd7619cd80a13795414ce05334",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/sim/tb_top_linear_interpolation.v",
+    "destination": "sim/delta/tb_top_linear_interpolation.v",
+    "sha256": "79ef0411ba2ad498312f00310dc958228144fafbda2b217ad8f3b4f28849e81b",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/sim/tb_motion_solver.v",
+    "destination": "sim/delta/tb_motion_solver.v",
+    "sha256": "000238ee56b9c0765996554ec65c67bbc507cadb7e47e606da7b271a6274dac7",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/ram_ctrl/ram_ctrl.v",
+    "destination": "rtl/linkage_arm/ram_ctrl/ram_ctrl.v",
+    "sha256": "5464f17996e17da06b4111984402200adf953aa0a7e7e44ade6841e3f7ec1f53",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/ram_ctrl/ram_ctrl_inst.v",
+    "destination": "rtl/linkage_arm/ram_ctrl/ram_ctrl_inst.v",
+    "sha256": "321c1d3bf0f0257856e0b335be6e3de719483685511c6e5d7acb9b155401845c",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/solver_big_and_small_arm.v",
+    "destination": "rtl/linkage_arm/motion_solver/solver_big_and_small_arm.v",
+    "sha256": "27b5dae235947a929f1aea7e0ab70f00791e09c7726c4138bc27b885bc0d7a29",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/cordic_serial_32.v",
+    "destination": "rtl/linkage_arm/motion_solver/cordic_serial_32.v",
+    "sha256": "01ee4f0d5c0e390a0dc850b8e0b4d748ba8f3a5ab86f81d372351691c86aecd0",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/solver_rotation.v",
+    "destination": "rtl/linkage_arm/motion_solver/solver_rotation.v",
+    "sha256": "faa196f0cbf87e5522bf5e16b5e690c5fabddf040303de516210c122c43279ae",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/divider.v",
+    "destination": "rtl/linkage_arm/motion_solver/divider.v",
+    "sha256": "91e002c7712ba7f937409978276ceed08286d1ad9484c003b262e42a3cee5787",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/arm_motion_solver.v",
+    "destination": "rtl/linkage_arm/motion_solver/arm_motion_solver.v",
+    "sha256": "96df200297ee5ae3024efdf4de3ebae4367ee4ca2458e3c9e7ea634776106ff0",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/sqrt_32.v",
+    "destination": "rtl/linkage_arm/motion_solver/sqrt_32.v",
+    "sha256": "9ac5fe9e2a3fc481d3c8cb64811a3beb9f281cb4b911d3cd1116dd15f6c62d96",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/signed_divider.v",
+    "destination": "rtl/linkage_arm/motion_solver/signed_divider.v",
+    "sha256": "4d54e56e606332f83aa793102aea54fbcde524b1e3a63c73334d59e845489ba8",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/stepper_motor_ctrl_2.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/stepper_motor_ctrl_2.v",
+    "sha256": "ce6c2d4eef2d360a122e877a1c56542d2598b4aa62f7a5e2a49a0d1cf12be9db",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/stepper_motor_ctrl_1.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/stepper_motor_ctrl_1.v",
+    "sha256": "1c5024d914dc1a9729300aeab3d2fddf5bb10742daf3473e9cc3c682b47ca96f",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/stepper_motor_ctrl_4.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/stepper_motor_ctrl_4.v",
+    "sha256": "a1db15b1ca8432a0bab261909afe6499ac9482dade1191edd825645a24036916",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/stepper_motor_ctrl_3.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/stepper_motor_ctrl_3.v",
+    "sha256": "06951b84dc1cf4335a3848e6fbe6eba2ebe7fa3efbc455bd7959028cb45a656a",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/uart/urat_ctrl_solver.v",
+    "destination": "rtl/linkage_arm/uart/urat_ctrl_solver.v",
+    "sha256": "6422a0c3e3eebbc2d3d4f6387c91f707f27ccf0372cf1c205c89fb89dd46bc4f",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/uart/uart_rx_top.v",
+    "destination": "rtl/linkage_arm/uart/uart_rx_top.v",
+    "sha256": "dbf3beb73b85ceee3e93ffb57a6d65411bb3a60cf2a91b634311eed5f087b469",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/uart/uart_tx_top.v",
+    "destination": "rtl/linkage_arm/uart/uart_tx_top.v",
+    "sha256": "97bfe13e61cb0092378417f788388c3529e41818655a10715b10c48748ab3095",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/uart/uart_tx.v",
+    "destination": "rtl/linkage_arm/uart/uart_tx.v",
+    "sha256": "e6a03afc9e177714be99f0d2a3786c7ac23a566145681e783c42c115b2ff7228",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/uart/uart_rx.v",
+    "destination": "rtl/linkage_arm/uart/uart_rx.v",
+    "sha256": "1e3ab451aeba5cf3152e9785b083c5ba96617270198895677ec0258f035b9ffa",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/uart/uart_ctrl.v",
+    "destination": "rtl/linkage_arm/uart/uart_ctrl.v",
+    "sha256": "13b6b626deb9a74e95a072fa0d1477a7e68bf88134c5886a41b806e7cb83e594",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/ram_ctrl/test/top_ram_ctrl.v",
+    "destination": "rtl/linkage_arm/ram_ctrl/test/top_ram_ctrl.v",
+    "sha256": "0248c2e031763abc89d8b19e684f80bb02284cea636d6911c040778ca65d96f9",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/test/top_motion_solver.v",
+    "destination": "rtl/linkage_arm/motion_solver/test/top_motion_solver.v",
+    "sha256": "5fb264a83b0b83a2d138b724a6137dbe9a9e0aac8a0c39e52f191e0ed7657536",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/test/top_solver_rotation.v",
+    "destination": "rtl/linkage_arm/motion_solver/test/top_solver_rotation.v",
+    "sha256": "40959edb085ce31422bd054e7b074e59f9871ddbd8fdcba3cfff3ab0f5054cca",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/test/solver_smallarm.v",
+    "destination": "rtl/linkage_arm/motion_solver/test/solver_smallarm.v",
+    "sha256": "ab572e6e4e970d594ca34c365b6261182fb6d106d265413ca0884c0327aa3a9a",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/test/solver_bigarm.v",
+    "destination": "rtl/linkage_arm/motion_solver/test/solver_bigarm.v",
+    "sha256": "873e65ad7af801521f0b568986baa9470aab1eeb5c271b4411ab3b51b2401572",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_solver/test/top_solver_big_and_small_arm.v",
+    "destination": "rtl/linkage_arm/motion_solver/test/top_solver_big_and_small_arm.v",
+    "sha256": "d0fba7a2f49117c3636a0b2b02350d9a5a34221eed114b6837dcef3d4ccfc22f",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/test/stepper_motor_ctrl_2.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/test/stepper_motor_ctrl_2.v",
+    "sha256": "ab76f245c6d43da260b8037216695699ae1c90ce71884ceaf7e6c35b5444b001",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/test/top_servo_ctrl_test.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/test/top_servo_ctrl_test.v",
+    "sha256": "2eaa14766c2e4980bb196db58b810a3ecabcc807c84e13fe16374d81988eb4ea",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/test/top_motion_ctrl.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/test/top_motion_ctrl.v",
+    "sha256": "5ed22de8ba6be757197e83c917346abaa67802ff038e1050704e1b5ce2cb922d",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/test/top_stepper_motor_ctrl_test.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/test/top_stepper_motor_ctrl_test.v",
+    "sha256": "403eb62e4640b7fd6d2922d28d505af2e9f9a23e38e2ffb56ee45a3148d13797",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/test/servo_ctrl.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/test/servo_ctrl.v",
+    "sha256": "270efa0f570f8be9eac571e1f25d992addf8caf11ccbd0e75a15429105549b7b",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/motion_ctrl/test/motion_ctrl.v",
+    "destination": "rtl/linkage_arm/motion_ctrl/test/motion_ctrl.v",
+    "sha256": "cc1028f283b3d72b4ec6b8d911b896fb000a1cf8fa377f07fb71c201b5bc0052",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/RTL/Ram_rtl/uart/test/uart_tx_top_test.v",
+    "destination": "rtl/linkage_arm/uart/test/uart_tx_top_test.v",
+    "sha256": "81d52deae479152175388aab41b5181b4afa9c8d38cd025c6e4fa73ed328b9c7",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_signed_divider.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_signed_divider.v",
+    "sha256": "2852b4f8ba24a9bd5327d884b845cd93cf5c8e9f69569bf4016ad9875c119dbc",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_solver_rotation.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_solver_rotation.v",
+    "sha256": "4b60044165b504fede76f32ae2d3dc1cfe731e580240f4591cac03e4b8411d07",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_solver_bigarm.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_solver_bigarm.v",
+    "sha256": "6b41d03970ed2f09abd836905435b0a7dd1dff54b9537ac09d36ed864c31a57a",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_top_motion_solver.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_top_motion_solver.v",
+    "sha256": "ebf3cf8af0151c1c407bac8a911f89d97fc63f8dd20814beb93b7dcd646a32b8",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_solver_big_and_small_arm.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_solver_big_and_small_arm.v",
+    "sha256": "ec3b6658b14d9693929278fa318e3914f2b6d6e85057a1a365d96f9085f4cfab",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_cordic_serial.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_cordic_serial.v",
+    "sha256": "5e5f3e7e5298cc25373c7dca309570fb1ad531e4156f64562f7e2aaf568dca71",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_solver_smallarm.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_solver_smallarm.v",
+    "sha256": "cae4d4ece2696e2050194a9e01cacc1f9187bb4eed5d7d66fe9b756599171a80",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_motion_solver.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_motion_solver.v",
+    "sha256": "e0aa6a46d85f45fb04323b2cfb191817fac5efc0198772ec8bbefddee2dc8981",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_solver/tb_sqrt.v",
+    "destination": "sim/linkage_arm/tb_motion_solver/tb_sqrt.v",
+    "sha256": "0a1445cd3f6e1d7eb2854a86372cf8dc0b15eec65f843af3dc7467f7d43cbf36",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_ctrl/tb_stepper_motor_ctrl_4.v",
+    "destination": "sim/linkage_arm/tb_motion_ctrl/tb_stepper_motor_ctrl_4.v",
+    "sha256": "325ca73eacd2e74310a0362084a9c956e227bfae001d62f4dcd8a4bff8de8648",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_ctrl/tb_motion_ctrl.v",
+    "destination": "sim/linkage_arm/tb_motion_ctrl/tb_motion_ctrl.v",
+    "sha256": "82da1fbdf6e3174a28f916b5b7516265c9b7ee535c208d9e6eb71f30bf3a32c3",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_ctrl/tb_stepper_motor_ctrl_3.v",
+    "destination": "sim/linkage_arm/tb_motion_ctrl/tb_stepper_motor_ctrl_3.v",
+    "sha256": "00254ec679013dc5fa0fc9df145d431ddd72df99e102622000c95d6096fa23ef",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_ctrl/tb_stepper_motor_ctrl_2.v",
+    "destination": "sim/linkage_arm/tb_motion_ctrl/tb_stepper_motor_ctrl_2.v",
+    "sha256": "6ef379b72a47a6a10e9edb6c067821d3b0bd807d57e7adf4bea4dfcaf585b5dd",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_ctrl/tb_servo_ctrl.v",
+    "destination": "sim/linkage_arm/tb_motion_ctrl/tb_servo_ctrl.v",
+    "sha256": "745e554ef4a723e7f3534db15b1e3333cd3b9e4bf193d9f025186ec259a2ee38",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_motion_ctrl/tb_stepper_motor_ctrl_1.v",
+    "destination": "sim/linkage_arm/tb_motion_ctrl/tb_stepper_motor_ctrl_1.v",
+    "sha256": "2d32f6579ff1ba8aeaf78ce4c669a2017bfdda99ee555ef93a568d103aa642a9",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_time_stamp/tb_time_stamp.v",
+    "destination": "sim/linkage_arm/tb_time_stamp/tb_time_stamp.v",
+    "sha256": "abf4db078f6c17e0ecacf74877168e11e2e5bbf3fdda56eedce75511f723d2a9",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_time_stamp/tb_seg4.v",
+    "destination": "sim/linkage_arm/tb_time_stamp/tb_seg4.v",
+    "sha256": "3bf8f6e8f5827907362080486ed54f999ba1d512610977b9c97a15630a6dc07f",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_ram_ctrl/tb_top_ram_ctr_test.v",
+    "destination": "sim/linkage_arm/tb_ram_ctrl/tb_top_ram_ctr_test.v",
+    "sha256": "91a996f393d6cb9ae2a1f984b318153fff2737708117a5e94afe9d1c886e764c",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Ram/sim/tb_uart/uart_top_tb.v",
+    "destination": "sim/linkage_arm/tb_uart/uart_top_tb.v",
+    "sha256": "0d9dbc219cc459f11ae93a5913404ea65c0292cc89f8649534b3480db785a993",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/PDS_prj/top_delta_ctrl/source/uart/uart_rx_top.v",
+    "destination": "fpga/pango/source/uart/uart_rx_top.v",
+    "sha256": "e0ad73afbe51d222f0c3718d17583a9cdf2dcb853f9c162bd982b5f4946a6764",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/PDS_prj/top_delta_ctrl/source/uart/win_tx_top.v",
+    "destination": "fpga/pango/source/uart/win_tx_top.v",
+    "sha256": "5d40e3c9dd10d073f4bebeb13e29ad6a6b53fabc3a6071ec2d70f764e2b4ae77",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/PDS_prj/top_delta_ctrl/top_delta_ctrl_IO.fdc",
+    "destination": "fpga/pango/top_delta_ctrl_IO.fdc",
+    "sha256": "ed1299d29080df411b7abdd674b4026beed1acdb2d10d0a9d8079af195525bc6",
+    "status": "original"
+  },
+  {
+    "source": "代码/CICC0900959_Project/CICC0900959_Project/PRJ/Delta/PDS_prj/top_delta_ctrl/top_delta_ctrl.pds",
+    "destination": "fpga/pango/top_delta_ctrl.pds",
+    "status": "paths adjusted; local simulator paths cleared",
+    "sha256": "2546f5d6db996fa59c4c08bd03ebb4c88b3a81912a05d334466459e1f0ae0c0a"
+  },
+  {
+    "source": "建模/DeltaX/运动学反解.py",
+    "destination": "reference/legacy/delta_inverse_original.py",
+    "sha256": "94eb2a5dc305081d13097b68086643c03bf53d36fbc272cf5cfd30f8e2661ef3",
+    "status": "original"
+  },
+  {
+    "source": "建模/DeltaX/运动学正解.py",
+    "destination": "reference/legacy/delta_forward_original.py",
+    "sha256": "86838c765f0df3a99c36bdfb4ee2b1c20d2b14071c53e0ca18dd2189b8632a3e",
+    "status": "original"
+  },
+  {
+    "source": "建模/DeltaX/运动空间.py",
+    "destination": "reference/legacy/delta_workspace_original.py",
+    "sha256": "24596d00a766d7a43a67f8e0c71cf6de3599101e2c87b78570c5b9fa71af2ac7",
+    "status": "original"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.pdf",
+    "destination": "docs/report/CICC0900959_design_report.pdf",
+    "sha256": "e0765ca4008495bd66df6d73c26df1d6984e46956ebf2c6690e8df742e5e51d6",
+    "status": "original"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image4.png",
+    "destination": "assets/system-photo.png",
+    "sha256": "53712925601ecf35475cce04466943399b34e0a0c3340ca20f2d4573208ccb3d",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image17.png",
+    "destination": "assets/delta-model.png",
+    "sha256": "adc4d155217a0747a60d1e519b2ac938c80d1415bc888d35f3dbf85e7eeff6c6",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image18.png",
+    "destination": "assets/delta-assembly.png",
+    "sha256": "95e4a3bb9a8cd41ff9013a0e1efb5ff43d0f14980f05fd34d7066cf7c6e7cb16",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image19.png",
+    "destination": "assets/delta-workspace.png",
+    "sha256": "87eac14b19c0cc87203da5b128b2ecf18ff4aee79926f510275e1cce9a202ed6",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image24.png",
+    "destination": "assets/linkage-dimensions.png",
+    "sha256": "000736d81f80dc292cf840afbc19ffab6d375b013891246f7fa78c4a3641a9b8",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image83.png",
+    "destination": "assets/delta-reduction.png",
+    "sha256": "3d8a1000bd87abb337e48a0c0b70829f2c70eb864dcf7fea5023d4803d445d3b",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image85.png",
+    "destination": "assets/delta-simulation.png",
+    "sha256": "211d5034c7305a0ea81422c422796fb5c2ade4dfa10eb9893a1beb5c993b6da7",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image86.png",
+    "destination": "assets/python-reference.png",
+    "sha256": "03e8b071f11aa8aa19cfc88d54b5eacfffb1404eb792e0e9087076463e111419",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image87.png",
+    "destination": "assets/ik-latency.png",
+    "sha256": "97b6327e6f462e8f252044de5ae5d82ae368cc099bf4eb1ce44d348d746f74df",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image88.png",
+    "destination": "assets/preprocess-latency.png",
+    "sha256": "56ab47e453ca8dd998919dc53d3f9debc68bf53ed6b4e54942fe8f9076a1d3d6",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image89.png",
+    "destination": "assets/angle-latency.png",
+    "sha256": "5dc5bcf3a5cd8517fbd47f474ec31992cb8e566fbc8cda24509b55060432ebb8",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx!word/media/image90.png",
+    "destination": "assets/system-resources.png",
+    "sha256": "b4f3b9dd80be28bec7838ebc48eee53e8e0fefa8b0b905da26b9f4bf4b156b6f",
+    "status": "unchanged embedded figure"
+  },
+  {
+    "source": "文档/CICC0900959_设计报告.docx",
+    "destination": "docs/report/CICC0900959_design_report.docx",
+    "status": "original",
+    "sha256": "a93c9b533d0ab7fd613a1c3ff313534000e5004efc6477d6f029a5b5b30daef9"
+  },
+  {
+    "source": "建模/Delta建模/RFID安装.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/RFID安装.SLDPRT",
+    "status": "original",
+    "sha256": "5fb9973d32b15eb9759f32b7fa4a1284c8bb66e33150eb117e7fd455be9070c1"
+  },
+  {
+    "source": "建模/Delta建模/传送带支撑.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/传送带支撑.SLDPRT",
+    "status": "original",
+    "sha256": "38d991415590a3da8c9384263f66f6d08ff4324109f9f46d168746d03216eff6"
+  },
+  {
+    "source": "建模/Delta建模/传送带电机固定.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/传送带电机固定.SLDPRT",
+    "status": "original",
+    "sha256": "767a02e324c0da05695cf209f482ad2135ac2eb235ff4a61130884bf1e8c5482"
+  },
+  {
+    "source": "建模/Delta建模/摄像头板卡固定连接.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/摄像头板卡固定连接.SLDPRT",
+    "status": "original",
+    "sha256": "5bedc9ac0468258bfb19488e5bbc4347990d2c5fc9410b5b3c72e76c88fdab63"
+  },
+  {
+    "source": "建模/Delta建模/板卡摄像头支架.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/板卡摄像头支架.SLDPRT",
+    "status": "original",
+    "sha256": "6792d34ded874fc457f4c4c194b2222ea5786c8cc448e56cd2fb85a2cfac49ce"
+  },
+  {
+    "source": "建模/Delta建模/托盘放置.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/托盘放置.SLDPRT",
+    "status": "original",
+    "sha256": "1d33be603bea8f0a0a04228e39560829d87480b428c829423da05783504088ae"
+  },
+  {
+    "source": "建模/Delta建模/圆柱.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/圆柱.SLDPRT",
+    "status": "original",
+    "sha256": "ad542b3236f18d446b3e4e3874a5d03fb13bb96223d285397b2931e922266dd9"
+  },
+  {
+    "source": "建模/Delta建模/滑台底部.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/滑台底部.SLDPRT",
+    "status": "original",
+    "sha256": "3cde2762831d672f2c4d0e6944b21fbd136c17ac0d583562b1b934708e844221"
+  },
+  {
+    "source": "建模/Delta建模/板卡支撑 2.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/板卡支撑 2.SLDPRT",
+    "status": "original",
+    "sha256": "57598b1cbb234e530d059b575c2b4ddf82fc047c42ddb9813334ba0a5238b005"
+  },
+  {
+    "source": "建模/Delta建模/LED支架.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/LED支架.SLDPRT",
+    "status": "original",
+    "sha256": "cc22e85fccc745b5be04153860fa6c073b3c5c336a2254420938bcd76069c87a"
+  },
+  {
+    "source": "建模/Delta建模/距离固定杆.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/距离固定杆.SLDPRT",
+    "status": "original",
+    "sha256": "a4d979f6172559cd06a8043a4b39adcafc6bb8045bfc7c04021edc8a9b4cfe89"
+  },
+  {
+    "source": "建模/Delta建模/托盘.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/托盘.SLDPRT",
+    "status": "original",
+    "sha256": "0184107ca5f308843b57b64b8279c9b6c0126492e7728bd46e8f6d22b57f0cbb"
+  },
+  {
+    "source": "建模/Delta建模/抓夹连接件3.0.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/抓夹连接件3.0.SLDPRT",
+    "status": "original",
+    "sha256": "62169aa5614897dd8ca2e34b3d878864cd5993720021461b15d0789f75ae0ff7"
+  },
+  {
+    "source": "建模/Delta建模/主动臂.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/主动臂.SLDPRT",
+    "status": "original",
+    "sha256": "c4833c17fb6ccb6e40ba64d0cf0356dc8f3fb12a67ad2883ab88c1b179a7b39e"
+  },
+  {
+    "source": "建模/Delta建模/传送带固定1.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/传送带固定1.SLDPRT",
+    "status": "original",
+    "sha256": "d4f26f3a53b7e627b345d67546efd871228b875744757be4971106d5e849d83f"
+  },
+  {
+    "source": "建模/Delta建模/传送带滚轮支撑.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/传送带滚轮支撑.SLDPRT",
+    "status": "original",
+    "sha256": "bbd09a2224c1262d18dd888b9443ff31a7a3a9d999bb6930232e99632da005da"
+  },
+  {
+    "source": "建模/Delta建模/距离固定.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/距离固定.SLDPRT",
+    "status": "original",
+    "sha256": "05aeb0efa75524929c181f44184a140ac49a96daa02ed0319aea15b4d1b4a863"
+  },
+  {
+    "source": "建模/Delta建模/按钮固定.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/按钮固定.SLDPRT",
+    "status": "original",
+    "sha256": "c406b303f9ccfc8d89daa5c7d49692e67f8b50953e507b6cd60fd56ba59472ed"
+  },
+  {
+    "source": "建模/Delta建模/正方体.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/正方体.SLDPRT",
+    "status": "original",
+    "sha256": "2d4cb0dde4765922b1c8a7fb53305caa0ef78af7e0f41fba8d7c695f34cd8e88"
+  },
+  {
+    "source": "建模/Delta建模/电源固定件.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/电源固定件.SLDPRT",
+    "status": "original",
+    "sha256": "788e890af1ba9e4a2f48dffbc6ebc1ad2dfdbb49f359a8737a6eb758938c3c31"
+  },
+  {
+    "source": "建模/Delta建模/板卡支撑1.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/板卡支撑1.SLDPRT",
+    "status": "original",
+    "sha256": "153a11f6a45163557f1b78e17a8e53c15595183a1d7dec43b0fb4f98e9a3d136"
+  },
+  {
+    "source": "建模/Delta建模/置物架.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/置物架.SLDPRT",
+    "status": "original",
+    "sha256": "46e8c7a9683ab540d9f9e8b14923d94ec016b8405f6bc01798135d8435383cd6"
+  },
+  {
+    "source": "建模/Delta建模/限位开关.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/限位开关.SLDPRT",
+    "status": "original",
+    "sha256": "2aa6e9898bd3918be8cb4c76ac43e3bd79c6e6666413f42e688af42b7ac69c31"
+  },
+  {
+    "source": "建模/Delta建模/圆柱体.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/圆柱体.SLDPRT",
+    "status": "original",
+    "sha256": "c2187baa2d3ef7710b9e8807868492c9be5da01038e9be8abde51f2828ff85d4"
+  },
+  {
+    "source": "建模/Delta建模/托盘放置固定.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/托盘放置固定.SLDPRT",
+    "status": "original",
+    "sha256": "159b1b1e1219a97e71d6d4c410a15d0b6c85da462c9b25c319475645ffefa52d"
+  },
+  {
+    "source": "建模/Delta建模/显示屏固定.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/显示屏固定.SLDPRT",
+    "status": "original",
+    "sha256": "a1f2cd06b06bc8f7dff871d80f44f095edd49af44174419f0ea25d2832a90fd4"
+  },
+  {
+    "source": "建模/Delta建模/末端激光安装.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/末端激光安装.SLDPRT",
+    "status": "original",
+    "sha256": "dfde94fcac44ee54971ff23781fc7ff0998150ab03d9145a74a9b207600103ee"
+  },
+  {
+    "source": "建模/Delta建模/六边形.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/六边形.SLDPRT",
+    "status": "original",
+    "sha256": "d0a53dd6dc01699617346a8c71b1bff8af5654a8baa6f3fed537d91c3ff68f9b"
+  },
+  {
+    "source": "建模/Delta建模/滑台上部.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/滑台上部.SLDPRT",
+    "status": "original",
+    "sha256": "fa9639d11ff54676f1631ddb921b3906c9ccc569a60284634ec10d56258125d4"
+  },
+  {
+    "source": "建模/Delta建模/PCB盖.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/PCB盖.SLDPRT",
+    "status": "original",
+    "sha256": "631cc0faae1f9da75130dc8546b51a4c4cc39b2557a8bc328adf223edb73ac85"
+  },
+  {
+    "source": "建模/Delta建模/六边体.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/六边体.SLDPRT",
+    "status": "original",
+    "sha256": "519324c5e248ca25f9fa079f665d9280d3f0aef1b9e04a6090b858037ea1659b"
+  },
+  {
+    "source": "建模/Delta建模/小角码.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/小角码.SLDPRT",
+    "status": "original",
+    "sha256": "15cb1a46a9386cfbd0df498ba95c03f59dae771a205ab6a7f02ae7e2413f3d3f"
+  },
+  {
+    "source": "建模/Delta建模/传送带固定2.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/传送带固定2.SLDPRT",
+    "status": "original",
+    "sha256": "e42ad4b9c7c06e9bf8e9011d641529a7420fd72aaec4754ff02050e639f5546a"
+  },
+  {
+    "source": "建模/2022delta/传送带步进驱动支架.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/传送带步进驱动支架.SLDPRT",
+    "status": "original",
+    "sha256": "2d09ead93e3d99008d4b0901d1fd755569787783b87078bfa8fdb075d1a14267"
+  },
+  {
+    "source": "建模/2022delta/吸盘支架.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/吸盘支架.SLDPRT",
+    "status": "original",
+    "sha256": "42931e5476da56d08988ffaa8baf3f676d5b34912e1d78a60b8420b53c12e441"
+  },
+  {
+    "source": "建模/2022delta/正方形物料橙.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/正方形物料橙.SLDPRT",
+    "status": "original",
+    "sha256": "3222e06475cb501fdd4569b15287a1853a678b60171bd72ba60e357c9d13bc2c"
+  },
+  {
+    "source": "建模/2022delta/摄像头支架负60°.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/摄像头支架负60°.SLDPRT",
+    "status": "original",
+    "sha256": "2ec404ddc356723761e3913384bd3804d301fb946a3fbf065dab878c6e5c97b2"
+  },
+  {
+    "source": "建模/2022delta/铝型材框架20100.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/铝型材框架20100.SLDPRT",
+    "status": "original",
+    "sha256": "4bf03fe21eb583e75e9cd9054fea584c01ecc3bb545bb57a4e2d39e527f832c6"
+  },
+  {
+    "source": "建模/2022delta/M3推拉杆轴.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/M3推拉杆轴.SLDPRT",
+    "status": "original",
+    "sha256": "83b9bf9f9d9e99db644d4194a4370e3ba77b8001dfab5ba42acac9a6f4059a22"
+  },
+  {
+    "source": "建模/2022delta/球头拉杆.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/球头拉杆.SLDPRT",
+    "status": "original",
+    "sha256": "86cfba88a3082708ee365f95cb1da5d157b5283d7967ccfa55cab03f16dbf51b"
+  },
+  {
+    "source": "建模/2022delta/42步进.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/42步进.SLDPRT",
+    "status": "original",
+    "sha256": "3707c0a4479526d2d1693e8d24726d6052aae8c5d3b30035568879b448eae6ac"
+  },
+  {
+    "source": "建模/2022delta/吸盘.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/吸盘.SLDPRT",
+    "status": "original",
+    "sha256": "bf34a8a8d9e616e5c62ee32bc3d5b5bcc353bbb4b4e9cbd33253871ffa2f41cd"
+  },
+  {
+    "source": "建模/2022delta/新主动臂.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/新主动臂.SLDPRT",
+    "status": "original",
+    "sha256": "041a9eee907333b25505119b5567ba4df94d49194eec9f28c6ca8227fa7753a7"
+  },
+  {
+    "source": "建模/2022delta/显示屏.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/显示屏.SLDPRT",
+    "status": "original",
+    "sha256": "82defac4c24495bf541e844a8474090e20995b8dd199f49c59d551e00cf87116"
+  },
+  {
+    "source": "建模/2022delta/装配体铝型材20100.SLDASM",
+    "destination": "mechanical/solidworks/2022delta/装配体铝型材20100.SLDASM",
+    "status": "original",
+    "sha256": "aaf8c6050c7cba997635fa5e8741484fddece4f11acd3c90aff8b3a54745976d"
+  },
+  {
+    "source": "建模/2022delta/传送带固定件2.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/传送带固定件2.SLDPRT",
+    "status": "original",
+    "sha256": "aa1c98adf835958b69692bee21ae4063a0d073b8c4933fea0bd3fde6091afedd"
+  },
+  {
+    "source": "建模/2022delta/摄像头支架负负60°.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/摄像头支架负负60°.SLDPRT",
+    "status": "original",
+    "sha256": "e678511ff714ae279087dff7d085f7e49b6bab5a52f13df4d100d95075ed5465"
+  },
+  {
+    "source": "建模/2022delta/铝型材框架.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/铝型材框架.SLDPRT",
+    "status": "original",
+    "sha256": "48d783e47908af74d81d8a4f419b34e71cea85bd61c98c96d55ea3883e5b7e06"
+  },
+  {
+    "source": "建模/2022delta/光轴8_106.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/光轴8_106.SLDPRT",
+    "status": "original",
+    "sha256": "5410eec7f9f0f0f5858b9f4acd4accce6f479281ac07c8bee051c02946686654"
+  },
+  {
+    "source": "建模/2022delta/鱼眼轴承.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/鱼眼轴承.SLDPRT",
+    "status": "original",
+    "sha256": "09fd8eecbda89b1dc1e8bd6b4b04395faca18c6f69d22eebe27d9f7ab8359304"
+  },
+  {
+    "source": "建模/2022delta/M5_15.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/M5_15.SLDPRT",
+    "status": "original",
+    "sha256": "cbcf57872453573e6018c02eaf4931bbd0acf194ed0e7049e7093fffbcd5aa88"
+  },
+  {
+    "source": "建模/2022delta/传送带固定件1.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/传送带固定件1.SLDPRT",
+    "status": "original",
+    "sha256": "9c3b071b90f94f1004189ada2d82d111848ff8685fd212c8b411cbd8276fe48f"
+  },
+  {
+    "source": "建模/2022delta/新静止端.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/新静止端.SLDPRT",
+    "status": "original",
+    "sha256": "b5f16b79681aa174d0e59cbcd7bbaaa93c09a7c2d121d68fd6a83524e7bb1a7b"
+  },
+  {
+    "source": "建模/2022delta/步进套筒.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/步进套筒.SLDPRT",
+    "status": "original",
+    "sha256": "ab938739074ac1fbe084ffd16d0b93658bcca1027081f14cbf8649a887678106"
+  },
+  {
+    "source": "建模/2022delta/传送带412.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/传送带412.SLDPRT",
+    "status": "original",
+    "sha256": "d954f3ed79e44d67d166332bfbe0b500a53bd3aeee9a719517f46e2e9488c8fa"
+  },
+  {
+    "source": "建模/2022delta/物料圆柱白.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/物料圆柱白.SLDPRT",
+    "status": "original",
+    "sha256": "10d90b877697198eb03b0d60cec08aa5a19cff0a079ddf59e216f5870f7b319a"
+  },
+  {
+    "source": "建模/2022delta/摄像头支架正60°.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/摄像头支架正60°.SLDPRT",
+    "status": "original",
+    "sha256": "9f11f87bfe7c726958d81249ba5e9c04164ac283bfb979f833464ec48b551b97"
+  },
+  {
+    "source": "建模/2022delta/舵机.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/舵机.SLDPRT",
+    "status": "original",
+    "sha256": "0f1e5309636b55422085815940eb7c764c154916c8c20fa2e762c2e58c717b6c"
+  },
+  {
+    "source": "建模/2022delta/执行端.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/执行端.SLDPRT",
+    "status": "original",
+    "sha256": "c03848870945696ceec6f1bdc0349b0415a0b79d24749621519b696d8dd980fd"
+  },
+  {
+    "source": "建模/2022delta/三角物料蓝.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/三角物料蓝.SLDPRT",
+    "status": "original",
+    "sha256": "07108cc6576c28cfaec3911cf537e089ca3c69e58a6e5a5fd90a3e753cbdee16"
+  },
+  {
+    "source": "建模/2022delta/关节连接轴.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/关节连接轴.SLDPRT",
+    "status": "original",
+    "sha256": "32156909062f697e74c2803cc3b3f2c8a964e9e001225b9e2e1a21693ff9c861"
+  },
+  {
+    "source": "建模/2022delta/物料槽.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/物料槽.SLDPRT",
+    "status": "original",
+    "sha256": "61249fdc0e6eb66d41a96fd9c3f6a1b83a5a39bd4668a5285d5359aeba7f49d7"
+  },
+  {
+    "source": "建模/2022delta/delta框架.SLDASM",
+    "destination": "mechanical/solidworks/2022delta/delta框架.SLDASM",
+    "status": "original",
+    "sha256": "03b72c78b514d4d0472a4e77ba7a0d871228a4712d92af362349c26abf35febe"
+  },
+  {
+    "source": "建模/2022delta/M4_15.SLDPRT",
+    "destination": "mechanical/solidworks/2022delta/M4_15.SLDPRT",
+    "status": "original",
+    "sha256": "25fb915ab5d40ebececf88136d13bd7ef84256185b395c7bda8f7c7f6c05078b"
+  },
+  {
+    "source": "建模/Delta建模/Delta-X-3D打印部分/STL/7变速箱内部零件/变速箱内部.SLDPRT",
+    "destination": "mechanical/solidworks/Delta建模/Delta-X-3D打印部分/STL/7变速箱内部零件/变速箱内部.SLDPRT",
+    "status": "original",
+    "sha256": "ae290bcdec62e40dbaab047417a6d5d28a986e8f98ccea7cbc36f5b53db33754"
+  },
+  {
+    "source": "建模/Delta建模/Delta-X-3D打印部分/STL/7变速箱内部零件/变速箱内部.SLDASM",
+    "destination": "mechanical/solidworks/Delta建模/Delta-X-3D打印部分/STL/7变速箱内部零件/变速箱内部.SLDASM",
+    "status": "original",
+    "sha256": "d18c67635585f157378e8ce4d68f5f06b348af807ad545a47b3069f83c13b436"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/延长杆底座接收.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/延长杆底座接收.SLDPRT",
+    "status": "original",
+    "sha256": "0bf02804d417dd180394cf1a3415fc0546721e7e22ce43c78a214a43eb5fdcbd"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/紧张环9.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/紧张环9.SLDPRT",
+    "status": "original",
+    "sha256": "e42beff0654f496c8960d8c7f0af5a9ed5280bffd8738c70bd8525853d3f1b4e"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/2020脚.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/2020脚.SLDPRT",
+    "status": "original",
+    "sha256": "90f1ae073e5ce080e3b4be9eda37ebad9053354885ff6ec6d6b4915ed5519d0a"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/摄像头支架.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/摄像头支架.SLDPRT",
+    "status": "original",
+    "sha256": "eeb6d2618be284d46e4468462266f8df12a7f16fc0f0f0914eca339699d589ca"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/距离固定杆.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/距离固定杆.SLDPRT",
+    "status": "original",
+    "sha256": "e3fd66164519c9539d4640a3af143e609af58761b12445d5762c3516e459a961"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/距离固定.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/距离固定.SLDPRT",
+    "status": "original",
+    "sha256": "cbdcbcaaf9731a817cc9953362736931c828a155cff5facc755b93dc8e6ca2e5"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/盒子.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/盒子.SLDPRT",
+    "status": "original",
+    "sha256": "f2dcb853a2f9341f8af3c520db0f625a3b0e14ea00f5c3b0827741091be3fa31"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/延长杆10接收.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/延长杆10接收.SLDPRT",
+    "status": "original",
+    "sha256": "5dfa0480c7a0ce9a85f2dbba653cd5dddbbe888d5e9a5b541c971932d8033ac2"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/接收盖.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/接收盖.SLDPRT",
+    "status": "original",
+    "sha256": "df0cace75dd0681d774f310bc0f558d7718bee2b37f80b9c2bfc8107546927e5"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/传输带紧张.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/传输带紧张.SLDPRT",
+    "status": "original",
+    "sha256": "403c922849cad2df85cfd8f204cb9f2497eb0ecbb13d46ff676d7178d3395987"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/轴承支撑..SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/轴承支撑..SLDPRT",
+    "status": "original",
+    "sha256": "bce8db0aa809b44ca1e7e964902375c6ddaca51f015d88dc3969b3336ed785a2"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/板卡支撑连接接收.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/板卡支撑连接接收.SLDPRT",
+    "status": "original",
+    "sha256": "993e4c5e3a8ec502e3388f9262b68aac0b7e170e4e1eb66d14e16ba4ce11db74"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/延长杆10发送.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/延长杆10发送.SLDPRT",
+    "status": "original",
+    "sha256": "81ab09a5d6fcea429076ea328675ffbe94fdf17000b30a251130f8c0d2cd3d9d"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/传输带支撑.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/传输带支撑.SLDPRT",
+    "status": "original",
+    "sha256": "4f216fd56775eef97e03bc0ba793b5daa5a6a62f2f2397f866a015b561450521"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/步进电机支架.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/步进电机支架.SLDPRT",
+    "status": "original",
+    "sha256": "2da20fcfac4b9b988e63a6efc2d1bd170cdf67d16408efad5f9ed9be415e3454"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/板卡支撑连接发送.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/板卡支撑连接发送.SLDPRT",
+    "status": "original",
+    "sha256": "40c00770102414867c548cb176594ab2e1bab15f240d354dce6e318b0f645355"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/2020支架.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/2020支架.SLDPRT",
+    "status": "original",
+    "sha256": "5c8300fb8da592467d6584858e0dd53f1b71b2a0b31bbede41f50c98ccba73e6"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/延长杆底座发送.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/延长杆底座发送.SLDPRT",
+    "status": "original",
+    "sha256": "249b2e59b6f571bfcf91c2bb39239a21a0832cf182e3174b94ed3b4efcfc0ea2"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/摄像头支架盖.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/摄像头支架盖.SLDPRT",
+    "status": "original",
+    "sha256": "bdb315c7601b9a96a9aefdd8a64a041676cad5ed8c741836d703b6488aa35c3a"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/2020连接.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/2020连接.SLDPRT",
+    "status": "original",
+    "sha256": "5686e0d5cc75ef5b19bf78bf62dcde9b460f172ab06dfa712fa4efada154c1ce"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/流水线/板卡支撑.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/流水线/板卡支撑.SLDPRT",
+    "status": "original",
+    "sha256": "8548c1858ef9357afb42df5655ea211ef718bc71d88548adf14cae53196368ba"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/机械臂/泵托.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/机械臂/泵托.SLDPRT",
+    "status": "original",
+    "sha256": "338c84b77cb609aa4885437d154939d23fbcf6b07a44acb4d552b14d089eb223"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/机械臂/泵托盖.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/机械臂/泵托盖.SLDPRT",
+    "status": "original",
+    "sha256": "cd2aa521e72246474c865d2a3cd9fe51327ce0d1ea4c0fc5acc7d0f138add2ec"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/stp/抓夹stp/抓夹连接件2.0.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/stp/抓夹stp/抓夹连接件2.0.SLDPRT",
+    "status": "original",
+    "sha256": "a175634a09da2bd6d8bbbeaa6eb5f0439c6a896794c2f38f5a2a742506dba525"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/stp/抓夹stp/抓夹连接件3.0.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/stp/抓夹stp/抓夹连接件3.0.SLDPRT",
+    "status": "original",
+    "sha256": "f2b00ebf77ea12c3b104a785dc4a17dfe01b7d47d1b3ea48ca3027bba45cdda3"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/stp/抓夹stp/抓夹连接件1.0.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/stp/抓夹stp/抓夹连接件1.0.SLDPRT",
+    "status": "original",
+    "sha256": "6834a85dd8b200dc7b78e23d2b0265a03f8ef2d5913e86a58a514128f9daa1d3"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/stp/轨道stp/2020脚.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/stp/轨道stp/2020脚.SLDPRT",
+    "status": "original",
+    "sha256": "90f1ae073e5ce080e3b4be9eda37ebad9053354885ff6ec6d6b4915ed5519d0a"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/stp/轨道stp/滑环加0.2.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/stp/轨道stp/滑环加0.2.SLDPRT",
+    "status": "original",
+    "sha256": "66f14872c9c65aa816cc89415238d226317c847adffaea63ccfdb3f53119675e"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/stp/轨道stp/拖链连接件.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/stp/轨道stp/拖链连接件.SLDPRT",
+    "status": "original",
+    "sha256": "735ccb73ab977e8cdf8d90cdb2e9c19a4740d0b3c7e5b1b9897c512b062a8009"
+  },
+  {
+    "source": "建模/带滑轨的步进电机机械臂/stp/轨道stp/电源安装件.SLDPRT",
+    "destination": "mechanical/solidworks/带滑轨的步进电机机械臂/stp/轨道stp/电源安装件.SLDPRT",
+    "status": "original",
+    "sha256": "6ad2f8d8b25200e69a3543e43d47f52afe9cd1ad9310dbe35686aa2f893934a7"
+  }
+]

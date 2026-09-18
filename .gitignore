@@ -1,0 +1,22 @@
+# Local and generated files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+fpga/pango/generated/
+**/compile/
+**/synthesize/
+**/device_map/
+**/place_route/
+**/report_timing/
+**/generate_bitstream/
+**/sim_work/
+**/work/
+*.wlf
+*.vcd
+*.fsdb
+*.log
+*.sbit
+*.smsk
+*.bak
+~$*
