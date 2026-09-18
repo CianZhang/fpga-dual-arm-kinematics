@@ -2,7 +2,7 @@
 
 **Mechanical Design and FPGA Inverse Kinematics for a Dual-Arm Robot**
 
-**第九届全国大学生集成电路创新创业大赛全国一等奖作品**
+**第九届全国大学生集成电路创新创业大赛全国二等奖作品**
 
 在这个项目中，我的主要工作是基于现有 STL 方案的机械结构补充设计，以及 Delta 并联机械臂和平行四边形连杆机械臂的逆运动学 FPGA 实现。本仓库围绕结构参数、数学模型、Verilog 定点计算与实物系统之间的对应关系整理。
 
